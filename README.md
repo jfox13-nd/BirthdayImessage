@@ -1,5 +1,5 @@
 # BirthdayImessage
-Will imessage friends and family on their birthdays (Mac only)
+These scripts will imessage friends and family on their birthdays (Mac only)
 
 Replace all instance of {relevant filepath} with the relavent filepath, and add any birthdays you desire to the script to the dictionary in birthdayList.py. An example birthday is given.
 
