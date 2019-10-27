@@ -7,7 +7,7 @@ Use Cron Jobs to run the script. You can edit Cron Jobs with the terminal comman
 ```
 crontab -e
 ```
-Add the following text:
+Add the following line:
 ```
 0 * * * * {path to python3} {relevant filepath}/birthdayList.py
 ```
